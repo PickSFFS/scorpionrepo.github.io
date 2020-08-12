@@ -8,7 +8,10 @@ body {
 	background-size: cover;
 	color: #cff3fc;
 }
-
+li {
+	text-decoration: none;
+	
+}
 a:link,
 a:visited {
 	display: block;
